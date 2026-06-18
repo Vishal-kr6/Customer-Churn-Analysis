@@ -18,7 +18,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("/home/vishal/Downloads/archive/Telco_customer_churn.csv")
+    return pd.read_csv("data/Telco_customer_churn.csv")
 
 df = load_data()
 
