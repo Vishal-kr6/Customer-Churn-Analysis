@@ -201,11 +201,15 @@ streamlit run app.py
 
 ### Executive Overview
 
-> Add dashboard screenshot here
+![Dashboard Overview](ScreenShots/plot_11.png)
 
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
+### Customer Analysis
+
+![Customer Analysis](ScreenShots/plot_12.png)
+
+### Churn Drivers
+
+![Churn Drivers](ScreenShots/plot_13.png)
 
 ---
 
